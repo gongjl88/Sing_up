@@ -1,5 +1,3 @@
-**用Node(Express)教你写KTV点歌系统，包括前台内容和后台管理系统，整合Express框架和Mongodb数据库服务器开发；教你用Vue.JS，ElementUI和iViewUI写出超漂亮的页面,随心点歌随心听**
-
 # **技术栈**
 
 * 后端： Express + Mongodb + jsonwebtoken等等
