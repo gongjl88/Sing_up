@@ -551,30 +551,6 @@ router.post("/test", passport.authenticate("jwt", {session:false}), async (req, 
 - ![](README/2019-10-20_195208.png)
 
 
-
-# 源码在这里
-以上代码均已上传 github
-
-[https://github.com/1046224544/ktv-select_music-system](https://github.com/1046224544/ktv-select_music-system)
-
-# 联系
-
-如果大家有兴趣，[欢迎star](https://github.com/1046224544/ktv-select_music-system). 欢迎大家加入我的前端交流群：866068198 ，一起交流学习前端技术。博主目前一直在自学Node中，技术有限，如果可以，会尽力给大家提供一些帮助，或是一些学习方法.
-- 群二维码
-
-
-![](README/25.png)
-
 # 其他
-- **Node-vue-iView开发类似博客的综合性网站** [https://juejin.im/post/5da2a8ed6fb9a04de818eeff](https://juejin.im/post/5da2a8ed6fb9a04de818eeff)
+- **我的个人博客** [龚俊龙](https://blog.loveapple.top/)
 
-
-# 最后
-If you have some questions after you see this article, you can contact me or you can find some info by clicking these links.
-
-- [juejin@wsm's juejin](https://juejin.im/user/5d1079ab6fb9a07ed4410cc0)
-- [GitHub@1046224544](https://github.com/1046224544)
-- [Segmentfault@wsm](https://segmentfault.com/u/xiaolajiao_5d81dbf1f09b2)
-
-
->**如果对你有帮助,请赏个star~** [github地址](https://github.com/1046224544/ktv-select_music-system)
