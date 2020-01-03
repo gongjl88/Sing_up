@@ -536,7 +536,7 @@ router.post("/test", passport.authenticate("jwt", {session:false}), async (req, 
 - ![](README/2019-10-20_194040.png)
 
 ## 前台点歌界面
-- ![63f8093984129e2f9ec1b28dd87e630.png](http://yanxuan.nosdn.127.net/4b0d2e6e722cff9d97d58a2335d13126.png)
+- ![](README/222.png)
 
 
 - ![](README/2019-10-20_194659.png)
