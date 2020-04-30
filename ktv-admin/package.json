@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^2.6.5",
     "element-ui": "^2.12.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jwt-decode": "^2.2.0",
     "view-design": "^4.0.1",
     "vue": "^2.6.10",
